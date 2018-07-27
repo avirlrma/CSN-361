@@ -60,7 +60,3 @@ string mod2div(string divident,string divisor){
 		}
 		return s;
 }
-
-// g++ generator.cpp -o generator
-// g++ verifier.cpp -o verifier
-// ./generator | ./verifier
